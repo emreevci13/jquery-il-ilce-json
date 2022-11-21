@@ -1,5 +1,20 @@
 [
   {
+    "bolge": "MARMARA",
+    "il": "İSTANBUL",
+    "plaka": 34
+  },
+  {
+    "bolge": "İÇ ANADOLU",
+    "il": "ANKARA",
+    "plaka": 6
+  },
+  {
+    "bolge": "EGE",
+    "il": "İZMİR",
+    "plaka": 35
+  },
+  {
     "bolge": "AKDENİZ",
     "il": "ADANA",
     "plaka": 1
@@ -24,11 +39,7 @@
     "il": "AMASYA",
     "plaka": 5
   },
-  {
-    "bolge": "İÇ ANADOLU",
-    "il": "ANKARA",
-    "plaka": 6
-  },
+
   {
     "bolge": "AKDENİZ",
     "il": "ANTALYA",
@@ -164,16 +175,7 @@
     "il": "MERSİN",
     "plaka": 33
   },
-  {
-    "bolge": "MARMARA",
-    "il": "İSTANBUL",
-    "plaka": 34
-  },
-  {
-    "bolge": "EGE",
-    "il": "İZMİR",
-    "plaka": 35
-  },
+
   {
     "bolge": "DOĞU ANADOLU",
     "il": "KARS",
